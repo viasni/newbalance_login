@@ -9,6 +9,8 @@ namespace newbalace_admin
         [TestMethod]
         public void TestMethod1()
         {
+            Console.WriteLine("wkenklwlfwklf");
+            Console.Read();
         }
     }
 }
