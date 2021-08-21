@@ -11,6 +11,8 @@ namespace newbalace_admin
         {
             Console.WriteLine("wkenklwlfwklf");
             Console.Read();
+            Console.WriteLine("Hello world.....!");
+
         }
     }
 }
